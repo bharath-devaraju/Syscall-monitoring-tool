@@ -1,0 +1,27 @@
+action.sh
+Dependencies
+Output
+Root
+System call: SYS_access
+System call: SYS_arch_prctl
+System call: SYS_brk
+System call: SYS_close
+System call: SYS_execve
+System call: SYS_exit_group
+System call: SYS_getdents64
+System call: SYS_getrandom
+System call: SYS_ioctl
+System call: SYS_io_pgetevents
+System call: SYS_mmap
+System call: SYS_mprotect
+System call: SYS_munmap
+System call: SYS_newfstatat
+System call: SYS_openat
+System call: SYS_pread64
+System call: SYS_prlimit64
+System call: SYS_read
+System call: SYS_set_robust_list
+System call: SYS_set_tid_address
+System call: SYS_statfs
+System call: SYS_write
+Test
